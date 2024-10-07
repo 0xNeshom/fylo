@@ -1,2 +1,2 @@
 view this project:
-https://neshome.github.io/fylo/
+https://0xNeshom.github.io/fylo/
